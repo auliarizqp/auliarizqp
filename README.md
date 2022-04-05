@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auliarizqp
 - 👀 I’m interested in cloud computing, odoo framework, and any more new technology
-- 🌱 I’m currently learning odoo framework
+- 🌱 I’m currently learning odoo and react native framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
